@@ -6,6 +6,7 @@ Pythagoras tree generator using C logic and Qt
 - Qt
 - GNU Make
 - GCC
+  
 Build:
    ```bash
    make
